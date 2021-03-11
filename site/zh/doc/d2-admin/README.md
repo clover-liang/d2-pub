@@ -195,7 +195,7 @@ pageClass: page--custom-pre
 │ │ ├─util.cookies.js --------------- // cookie 相关
 │ │ ├─util.db.js -------------------- // 数据存储相关
 │ │ ├─util.import.development.js ---- // 开发环境下使用的页面导入方法
-│ │ ├─util.import.production.js ----- // 开发环境下使用的页面导入方法
+│ │ ├─util.import.production.js ----- // 生产环境下使用的页面导入方法
 │ │ ├─util.js ----------------------- // 杂项
 │ │ └─util.log.js ------------------- // 日志相关
 │ ├─locales ------------------------- // 国际化语言配置
